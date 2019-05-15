@@ -8,10 +8,9 @@ This package provide a full integration of Twig templates with CodeIgniter
 
 codeigniter/
  └── application
-	    ├── cache
-	    ├── config
-	    │ 	 └── twig.php
-	    └── libraries
-	 		 └── Twig.php
+        ├── config
+        │    └── twig.php
+	    └── libraries
+             └── Twig.php 
 
 ```
